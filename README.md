@@ -31,7 +31,7 @@ statistical analysis, risk evaluation, and interactive visualizations.
 8. **Price vs Volume Dashboard** — Combined interactive analysis
 
 ## 🔍 Key Insights
-- (yahan apne findings likho — jaise "TCS showed lowest volatility" etc.)
+(TCS showed lowest volatility" etc.)
 
 ## 🚀 How to Run
 1. Clone this repository
